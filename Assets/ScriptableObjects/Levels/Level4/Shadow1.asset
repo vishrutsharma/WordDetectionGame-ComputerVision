@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6134a7c6838246d4882466ca40dc3e1, type: 3}
+  m_Name: Shadow1
+  m_EditorClassIdentifier: 
+  mechanismsData:
+    mechanismType: 3
+    words:
+    - word: PIT
+      isGuided: 1
+      autoHint: 0
+      showLetter: 0
+      wordSprite: {fileID: 21300000, guid: 699032534b4b12642b72fdb4f1e6ae1d, type: 3}
+      wordIndexes: 
+      voiceOvers:
+      - voiceOverType: 3
+        clips:
+        - {fileID: 8300000, guid: 9caec63051ff9b6499d9e3fcb0f2bf9f, type: 3}
+        - {fileID: 8300000, guid: 8e0197e260715cf449347df20bd94c58, type: 3}
+        - {fileID: 8300000, guid: a50a994004f9ffd449ac1f2c23ea3862, type: 3}
+        - {fileID: 8300000, guid: d4008b330622f5245ab4c6a6dcc94cd4, type: 3}
+        - {fileID: 8300000, guid: b4a02dcc4b96c9644bc4fd520bf2c87c, type: 3}
+        - {fileID: 8300000, guid: 8e0197e260715cf449347df20bd94c58, type: 3}
+      - voiceOverType: 5
+        clips:
+        - {fileID: 8300000, guid: d27bb3aa2f434f94497af3626f4b2a94, type: 3}
+        - {fileID: 8300000, guid: a50a994004f9ffd449ac1f2c23ea3862, type: 3}
+        - {fileID: 8300000, guid: d4008b330622f5245ab4c6a6dcc94cd4, type: 3}
+        - {fileID: 8300000, guid: b4a02dcc4b96c9644bc4fd520bf2c87c, type: 3}
+    - word: RIP
+      isGuided: 0
+      autoHint: 0
+      showLetter: 0
+      wordSprite: {fileID: 21300000, guid: 417b94bb3b8e245b98c8615968e775fe, type: 3}
+      wordIndexes: 
+      voiceOvers:
+      - voiceOverType: 3
+        clips:
+        - {fileID: 8300000, guid: 3781dd079df8a44df8d1f0e2b3bf70f1, type: 3}
+        - {fileID: 8300000, guid: 3b6523ba43ca1cc47b5a3b0aae1db41c, type: 3}
+        - {fileID: 8300000, guid: 5362b91de9ad0274db329586704a8964, type: 3}
+        - {fileID: 8300000, guid: d4008b330622f5245ab4c6a6dcc94cd4, type: 3}
+        - {fileID: 8300000, guid: a50a994004f9ffd449ac1f2c23ea3862, type: 3}
+        - {fileID: 8300000, guid: 3b6523ba43ca1cc47b5a3b0aae1db41c, type: 3}
+      - voiceOverType: 5
+        clips:
+        - {fileID: 8300000, guid: d27bb3aa2f434f94497af3626f4b2a94, type: 3}
+        - {fileID: 8300000, guid: 5362b91de9ad0274db329586704a8964, type: 3}
+        - {fileID: 8300000, guid: d4008b330622f5245ab4c6a6dcc94cd4, type: 3}
+        - {fileID: 8300000, guid: a50a994004f9ffd449ac1f2c23ea3862, type: 3}
+    - word: NIB
+      isGuided: 0
+      autoHint: 0
+      showLetter: 0
+      wordSprite: {fileID: 21300000, guid: 12d753b2eb107a14295e8fe5e04fcffc, type: 3}
+      wordIndexes: 
+      voiceOvers:
+      - voiceOverType: 3
+        clips:
+        - {fileID: 8300000, guid: 9caec63051ff9b6499d9e3fcb0f2bf9f, type: 3}
+        - {fileID: 8300000, guid: 51c0dcab194de53419cecd79ad36bb05, type: 3}
+        - {fileID: 8300000, guid: 5d9bbab1814adca46ac41c55ee72696d, type: 3}
+        - {fileID: 8300000, guid: d4008b330622f5245ab4c6a6dcc94cd4, type: 3}
+        - {fileID: 8300000, guid: 64826a45964ba734e84920027910a43c, type: 3}
+        - {fileID: 8300000, guid: 51c0dcab194de53419cecd79ad36bb05, type: 3}
+      - voiceOverType: 5
+        clips:
+        - {fileID: 8300000, guid: d27bb3aa2f434f94497af3626f4b2a94, type: 3}
+        - {fileID: 8300000, guid: 5d9bbab1814adca46ac41c55ee72696d, type: 3}
+        - {fileID: 8300000, guid: d4008b330622f5245ab4c6a6dcc94cd4, type: 3}
+        - {fileID: 8300000, guid: 64826a45964ba734e84920027910a43c, type: 3}
+    - word: PET
+      isGuided: 0
+      autoHint: 0
+      showLetter: 0
+      wordSprite: {fileID: 21300000, guid: 8ce8db4e255a2264aa8e0bc0d7523125, type: 3}
+      wordIndexes: 
+      voiceOvers:
+      - voiceOverType: 3
+        clips:
+        - {fileID: 8300000, guid: 9caec63051ff9b6499d9e3fcb0f2bf9f, type: 3}
+        - {fileID: 8300000, guid: 53ad0eec40635cf4096bec6d1305c0d9, type: 3}
+        - {fileID: 8300000, guid: a50a994004f9ffd449ac1f2c23ea3862, type: 3}
+        - {fileID: 8300000, guid: 79fddd3e410571a4aa941c86be85f0fc, type: 3}
+        - {fileID: 8300000, guid: b4a02dcc4b96c9644bc4fd520bf2c87c, type: 3}
+        - {fileID: 8300000, guid: 53ad0eec40635cf4096bec6d1305c0d9, type: 3}
+      - voiceOverType: 5
+        clips:
+        - {fileID: 8300000, guid: d27bb3aa2f434f94497af3626f4b2a94, type: 3}
+        - {fileID: 8300000, guid: a50a994004f9ffd449ac1f2c23ea3862, type: 3}
+        - {fileID: 8300000, guid: 79fddd3e410571a4aa941c86be85f0fc, type: 3}
+        - {fileID: 8300000, guid: b4a02dcc4b96c9644bc4fd520bf2c87c, type: 3}
+    - word: HOT
+      isGuided: 0
+      autoHint: 0
+      showLetter: 0
+      wordSprite: {fileID: 21300000, guid: db5735f88c34baa4a9983b60a04fe6f3, type: 3}
+      wordIndexes: 
+      voiceOvers:
+      - voiceOverType: 3
+        clips:
+        - {fileID: 8300000, guid: 9caec63051ff9b6499d9e3fcb0f2bf9f, type: 3}
+        - {fileID: 8300000, guid: 2c312db84da707b42a8d03f51065fd09, type: 3}
+        - {fileID: 8300000, guid: 570f8c1f1bf626d44babbc1ae87fa41f, type: 3}
+        - {fileID: 8300000, guid: 89055edf760f4554795283de1b8068fb, type: 3}
+        - {fileID: 8300000, guid: b4a02dcc4b96c9644bc4fd520bf2c87c, type: 3}
+        - {fileID: 8300000, guid: 2c312db84da707b42a8d03f51065fd09, type: 3}
+      - voiceOverType: 5
+        clips:
+        - {fileID: 8300000, guid: d27bb3aa2f434f94497af3626f4b2a94, type: 3}
+        - {fileID: 8300000, guid: 570f8c1f1bf626d44babbc1ae87fa41f, type: 3}
+        - {fileID: 8300000, guid: 89055edf760f4554795283de1b8068fb, type: 3}
+        - {fileID: 8300000, guid: b4a02dcc4b96c9644bc4fd520bf2c87c, type: 3}
+    - word: HAM
+      isGuided: 0
+      autoHint: 0
+      showLetter: 0
+      wordSprite: {fileID: 21300000, guid: 6f7f0433d2aec4125a8f46b91dd174b4, type: 3}
+      wordIndexes: 
+      voiceOvers:
+      - voiceOverType: 3
+        clips:
+        - {fileID: 8300000, guid: 9caec63051ff9b6499d9e3fcb0f2bf9f, type: 3}
+        - {fileID: 8300000, guid: e829b563fbd2b14478904e200ff98238, type: 3}
+        - {fileID: 8300000, guid: 570f8c1f1bf626d44babbc1ae87fa41f, type: 3}
+        - {fileID: 8300000, guid: 804b57758be54f64b9ca42dd5333a2ab, type: 3}
+        - {fileID: 8300000, guid: 483d645f60e0e8b44942c4d23a95478b, type: 3}
+        - {fileID: 8300000, guid: e829b563fbd2b14478904e200ff98238, type: 3}
+      - voiceOverType: 5
+        clips:
+        - {fileID: 8300000, guid: d27bb3aa2f434f94497af3626f4b2a94, type: 3}
+        - {fileID: 8300000, guid: 570f8c1f1bf626d44babbc1ae87fa41f, type: 3}
+        - {fileID: 8300000, guid: 804b57758be54f64b9ca42dd5333a2ab, type: 3}
+        - {fileID: 8300000, guid: 483d645f60e0e8b44942c4d23a95478b, type: 3}
+    - word: CAP
+      isGuided: 0
+      autoHint: 0
+      showLetter: 0
+      wordSprite: {fileID: 21300000, guid: 8a382ca11441142cfacb3ce81222c68f, type: 3}
+      wordIndexes: 
+      voiceOvers:
+      - voiceOverType: 3
+        clips:
+        - {fileID: 8300000, guid: 9caec63051ff9b6499d9e3fcb0f2bf9f, type: 3}
+        - {fileID: 8300000, guid: af729d00b8b2b6c419b2f1a1f29a7732, type: 3}
+        - {fileID: 8300000, guid: ea14e2957d8beab4ea4247ed01161803, type: 3}
+        - {fileID: 8300000, guid: 804b57758be54f64b9ca42dd5333a2ab, type: 3}
+        - {fileID: 8300000, guid: a50a994004f9ffd449ac1f2c23ea3862, type: 3}
+        - {fileID: 8300000, guid: af729d00b8b2b6c419b2f1a1f29a7732, type: 3}
+      - voiceOverType: 5
+        clips:
+        - {fileID: 8300000, guid: d27bb3aa2f434f94497af3626f4b2a94, type: 3}
+        - {fileID: 8300000, guid: ea14e2957d8beab4ea4247ed01161803, type: 3}
+        - {fileID: 8300000, guid: 804b57758be54f64b9ca42dd5333a2ab, type: 3}
+        - {fileID: 8300000, guid: a50a994004f9ffd449ac1f2c23ea3862, type: 3}
+    - word: PEG
+      isGuided: 0
+      autoHint: 0
+      showLetter: 0
+      wordSprite: {fileID: 21300000, guid: 073ad4e20394f9a499eeba31316c0d22, type: 3}
+      wordIndexes: 
+      voiceOvers:
+      - voiceOverType: 3
+        clips:
+        - {fileID: 8300000, guid: 9caec63051ff9b6499d9e3fcb0f2bf9f, type: 3}
+        - {fileID: 8300000, guid: c2f0f42f642f54e46a4c899fbf2f07e6, type: 3}
+        - {fileID: 8300000, guid: a50a994004f9ffd449ac1f2c23ea3862, type: 3}
+        - {fileID: 8300000, guid: b11a844aa7627cd4c81459bddb9e9bf2, type: 3}
+        - {fileID: 8300000, guid: 86915f27b8fc17141b5365e00cc74b50, type: 3}
+        - {fileID: 8300000, guid: c2f0f42f642f54e46a4c899fbf2f07e6, type: 3}
+      - voiceOverType: 5
+        clips:
+        - {fileID: 8300000, guid: d27bb3aa2f434f94497af3626f4b2a94, type: 3}
+        - {fileID: 8300000, guid: a50a994004f9ffd449ac1f2c23ea3862, type: 3}
+        - {fileID: 8300000, guid: 79fddd3e410571a4aa941c86be85f0fc, type: 3}
+        - {fileID: 8300000, guid: 86915f27b8fc17141b5365e00cc74b50, type: 3}
+    - word: NUN
+      isGuided: 0
+      autoHint: 0
+      showLetter: 0
+      wordSprite: {fileID: 21300000, guid: d2f6041ea41a17840b5b7b4afd3dc9c4, type: 3}
+      wordIndexes: 
+      voiceOvers:
+      - voiceOverType: 3
+        clips:
+        - {fileID: 8300000, guid: 9caec63051ff9b6499d9e3fcb0f2bf9f, type: 3}
+        - {fileID: 8300000, guid: 4de657f2ae6d75c4e918807411935278, type: 3}
+        - {fileID: 8300000, guid: 5d9bbab1814adca46ac41c55ee72696d, type: 3}
+        - {fileID: 8300000, guid: 7bf582729cbd1844ca05cc734b243fad, type: 3}
+        - {fileID: 8300000, guid: 5d9bbab1814adca46ac41c55ee72696d, type: 3}
+        - {fileID: 8300000, guid: 4de657f2ae6d75c4e918807411935278, type: 3}
+      - voiceOverType: 5
+        clips:
+        - {fileID: 8300000, guid: d27bb3aa2f434f94497af3626f4b2a94, type: 3}
+        - {fileID: 8300000, guid: 5d9bbab1814adca46ac41c55ee72696d, type: 3}
+        - {fileID: 8300000, guid: 7bf582729cbd1844ca05cc734b243fad, type: 3}
+        - {fileID: 8300000, guid: 5d9bbab1814adca46ac41c55ee72696d, type: 3}
+    - word: BIN
+      isGuided: 0
+      autoHint: 0
+      showLetter: 0
+      wordSprite: {fileID: 21300000, guid: c361bb669624d1648892495c049ae592, type: 3}
+      wordIndexes: 
+      voiceOvers:
+      - voiceOverType: 3
+        clips:
+        - {fileID: 8300000, guid: 9caec63051ff9b6499d9e3fcb0f2bf9f, type: 3}
+        - {fileID: 8300000, guid: ae23148a0de6c3a4585b2ac3b68b2fb7, type: 3}
+        - {fileID: 8300000, guid: 64826a45964ba734e84920027910a43c, type: 3}
+        - {fileID: 8300000, guid: 67273dd6df557ca42b46316228b5ee51, type: 3}
+        - {fileID: 8300000, guid: 5d9bbab1814adca46ac41c55ee72696d, type: 3}
+        - {fileID: 8300000, guid: ae23148a0de6c3a4585b2ac3b68b2fb7, type: 3}
+      - voiceOverType: 5
+        clips:
+        - {fileID: 8300000, guid: d27bb3aa2f434f94497af3626f4b2a94, type: 3}
+        - {fileID: 8300000, guid: 64826a45964ba734e84920027910a43c, type: 3}
+        - {fileID: 8300000, guid: d4008b330622f5245ab4c6a6dcc94cd4, type: 3}
+        - {fileID: 8300000, guid: 5d9bbab1814adca46ac41c55ee72696d, type: 3}

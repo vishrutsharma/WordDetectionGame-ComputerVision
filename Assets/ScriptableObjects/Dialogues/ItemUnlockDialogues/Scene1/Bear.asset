@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b169a7f1a7efac4499ed53727b1d88f, type: 3}
+  m_Name: Bear
+  m_EditorClassIdentifier: 
+  lines:
+  - character: {fileID: 11400000, guid: 45ad09950dbd84b3ebab0afd3c66efa8, type: 2}
+    audioClip: {fileID: 8300000, guid: 0b44fca92379d6d44bf7321be2277d2c, type: 3}
+    text: "Isn\u2019t it funny? The big grizzly bear only wants some honey!"
+  - character: {fileID: 11400000, guid: 45ad09950dbd84b3ebab0afd3c66efa8, type: 2}
+    audioClip: {fileID: 8300000, guid: 8dbbf120683e04141890561c189c832c, type: 3}
+    text: Look at the forest now with all these animals! It looks beautiful.
+  - character: {fileID: 11400000, guid: 8bd68be144acc4fb6bfc3c3e22840bb6, type: 2}
+    audioClip: {fileID: 8300000, guid: f92ee3f461793fb4eb5f60860a072b18, type: 3}
+    text: "I don\u2019t know that I have these abilities and can bring everyone back\u2026."
+  - character: {fileID: 11400000, guid: 45ad09950dbd84b3ebab0afd3c66efa8, type: 2}
+    audioClip: {fileID: 8300000, guid: 0f1ec215d6df8604aa89437eb97d355b, type: 3}
+    text: There are other parts of the forest left out. Use your abilities to bring
+      them back.
+  - character: {fileID: 11400000, guid: 8bd68be144acc4fb6bfc3c3e22840bb6, type: 2}
+    audioClip: {fileID: 8300000, guid: dfa8b65a5e1dcb84c8992203a12ba780, type: 3}
+    text: "Let\u2019s Go!"
+  - character: {fileID: 11400000, guid: 8bd68be144acc4fb6bfc3c3e22840bb6, type: 2}
+    audioClip: {fileID: 8300000, guid: a933fe099566ec047974865ac7116cfc, type: 3}
+    text: "I can almost imagine how beautiful the forest will be once we\u2019re
+      done!"
+  - character: {fileID: 11400000, guid: 45ad09950dbd84b3ebab0afd3c66efa8, type: 2}
+    audioClip: {fileID: 8300000, guid: 77021f610fa742143831c54b5f0083b2, type: 3}
+    text: "Come, let\u2019s do it and see for ourselves!"
+  - character: {fileID: 11400000, guid: 45ad09950dbd84b3ebab0afd3c66efa8, type: 2}
+    audioClip: {fileID: 8300000, guid: 1377c8d19c8fab340bd6a3d0d6283cfd, type: 3}
+    text: 'We successfully brought them back! Now, we have to continue our journey
+      to other parts of the forest. Are you ready? '
+  - character: {fileID: 11400000, guid: 8bd68be144acc4fb6bfc3c3e22840bb6, type: 2}
+    audioClip: {fileID: 8300000, guid: dfa8b65a5e1dcb84c8992203a12ba780, type: 3}
+    text: Let's go
